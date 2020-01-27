@@ -1,4 +1,4 @@
-# :gear:Google Code-In 2019 | Julia Programming Language
+# :gear: Google Code-In 2019 | Julia Programming Language
 
 This repository includes sources to all the tasks I worked on (whether claimed or not) during Google Code-In.
 
