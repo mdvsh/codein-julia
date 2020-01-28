@@ -25,7 +25,7 @@ The distance in this snippet is normalized such that 0 equates to no similarity 
 
 Create a snippet for the [30-seconds-of-Julia repo.](https://github.com/30-seconds/30-seconds-of-julia)
 
-**Make sure this task is Advanced level. See the Python repo for examples of Intermediate tasks**
+**Make sure this task is Advanced level. See the Python repo for examples of Advanced tasks**
 
 ### You should:
 

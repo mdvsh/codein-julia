@@ -6,8 +6,8 @@
 
 1. [**Pull Request**](https://github.com/30-seconds/30-seconds-of-julia/pull/36)
    - Added snippets (Basic, Intermediate) See Desc. #36 [| Merged.](https://github.com/30-seconds/30-seconds-of-julia/commit/cbf1b207ed13b4c9e3eec980d46c2770cd6899fb) 
-   - [`chunk.md`](./chunk.md)
-     - Chunks a list into smaller lists of a specified size | [Source](https://github.com/30-seconds/30-seconds-of-python/blob/master/snippets/chunk.md)
+   - [`is_divisible.md`](./is_divisible.md)
+     - Checks if the first numeric argument is divisible by the second one. [Source](https://github.com/30-seconds/30-seconds-of-python/blob/master/snippets/is_divisible.md)
 
 <hr>
 
@@ -17,7 +17,7 @@
 
 Create a snippet for the [30-seconds-of-Julia repo.](https://github.com/30-seconds/30-seconds-of-julia)
 
-**Make sure this task is Intermediate level. See the Python repo for examples of Intermediate tasks**
+**Make sure this task is Beginner level. See the Python repo for examples of Beginner tasks**
 
 ### You should:
 
