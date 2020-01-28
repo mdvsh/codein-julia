@@ -1,0 +1,22 @@
+name: tweet_scheduler
+
+on: 
+  schedule:
+    - cron: '0 12 * * sun'
+      #Runs at 12:00 UTC on Sun (hopefully!)
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: julia-actions/setup-julia@v1
+      with:
+        version: '1.0.4'
+    - uses: julia-actions/julia-buildpkg@master
+    - run: julia --project src/memebot.jl 
+      
+      
+
