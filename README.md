@@ -15,7 +15,7 @@ This will support the blog I write on my experience in GCI this year.
 | ------------- | ------------- |
 | 🔰  | Beginner (Max 2)  |
 | 👨‍💻  | Code  |
-| 📄  | Documentaion / Blog  |
+| 📄  | Documentation / Blog  |
 | 🎨  | Design  |
 | 💡  | Production Idea |
 | 🎮  | Game   |
@@ -44,4 +44,4 @@ This will support the blog I write on my experience in GCI this year.
 17. [Create a Makie.jl program utilizing as many attributes as possible | 📄👨‍💻](makie.jl-prog-attributuMaximum)
 18. [Design a quiz for the World of Machine Learning with Knet course on JuliaAcademy | 💡🎨](quiz-ML-with-Knet.jl)
 
-➕To Add More ➕
+➕ [WIP] To Add More ➕
