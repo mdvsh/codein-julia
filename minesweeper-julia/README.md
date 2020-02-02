@@ -24,7 +24,7 @@ ToDo:
 
 #### Demo
 
-```console
+```
 → C:\Users\madhav\games_in_julia\minesweeper› julia minesweeper.jl
 ---------------------------------------------------------------------
 BACKGROUND:
