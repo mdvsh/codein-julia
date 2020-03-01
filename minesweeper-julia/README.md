@@ -1,6 +1,6 @@
 # minesweeper-julia
 
-# 🎮 Make A Game Task 👨‍💻
+## 🎮 Make A Game Task 👨‍💻
 
 >Part of my [games-in-julia](https://github.com/PseudoCodeNerd/games_in_julia) series.
 
